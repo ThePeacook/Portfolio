@@ -1,4 +1,4 @@
-package xanderpeacockfive;
+package xanderpeacockportfolio;
 
 import java.util.Scanner;
 
