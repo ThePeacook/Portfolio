@@ -1,12 +1,12 @@
-package xanderpeacockportfolio;
-
-import java.util.Scanner;
-
 /*
  * Xander Peacock
  * 10.17.18
  * Calculation Statements
  */
+
+package xanderpeacockportfolio;
+
+import java.util.Scanner;
 
 public class Ifcalculator {
 

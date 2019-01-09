@@ -1,3 +1,9 @@
+/*
+ * Xander Peacock
+ * 01.09.19
+ * My Resturant
+ */
+
 package xanderpeacockportfolio;
 
 public class Store2 {

@@ -1,12 +1,12 @@
-package xanderpeacockportfolio;
-
-import java.util.Scanner;
-
 /*
  * Xander Peacock
  * 10.17.18
  * Addition Game
  */
+
+package xanderpeacockportfolio;
+
+import java.util.Scanner;
 
 public class Addition_Game {
 

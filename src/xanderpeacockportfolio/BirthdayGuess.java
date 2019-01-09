@@ -1,3 +1,9 @@
+/*
+ * Xander Peacock
+ * 01.09.19
+ * Guess your Birthday
+ */
+
 package xanderpeacockportfolio;
 
 import java.util.Scanner;
