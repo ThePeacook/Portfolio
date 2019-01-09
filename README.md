@@ -11,5 +11,5 @@ You will be able to find these in "<b>Portfolio > src > xanderpeacockportfolio</
 <b>GUI.java: </b>Just having fun with making this GUI.<br>
 <b>Grade.java: </b>Check your grade average and score with this.<br>
 <b>Guessing_Game.java: </b>A Guessing game.<br>
-<b>Gussing_Game_Loops.java: </b>A Gussing game but harder!<br>
+<b>Guessing_Game_Loops.java: </b>A Guessing game but harder!<br>
 <b>Store and Store 2: </b>Check the prices at my store! (<i>Make sure to click on Store, thats the one that works.</i>)
