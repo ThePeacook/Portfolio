@@ -1,18 +1,18 @@
 package xanderpeacockportfolio;
 
-import pickle.java.Grocery;
+import xanderpeacockportfolio.Store2;
 
 public class Store {
 
 	public static void main(String[] args) {
 		
 		// Foods
-		Grocery ribsteak = new Grocery(); 
-		Grocery human = new Grocery(); 
-		Grocery applejuice = new Grocery(); 
-		Grocery chowmein = new Grocery(); 
-		Grocery spaghetti = new Grocery(); 
-		Grocery lasagna = new Grocery(); 
+		Store2 ribsteak = new Store2(); 
+		Store2 human = new Store2(); 
+		Store2 applejuice = new Store2(); 
+		Store2 chowmein = new Store2(); 
+		Store2 spaghetti = new Store2(); 
+		Store2 lasagna = new Store2(); 
 		// Rib Steak
 		ribsteak.setTypefood("Meat");
 		ribsteak.setWeight(5);
