@@ -1,9 +1,14 @@
+/*
+ * Xander Peacock
+ * 01.09.19
+ * Guess the number (Advanced)
+ */
 package xanderpeacockportfolio;
 
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Gussing_Game_Loops {
+public class Guessing_Game_Loops {
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

@@ -1,3 +1,8 @@
+/*
+ * Xander Peacock
+ * 01.09.19
+ * Guess the number
+ */
 package xanderpeacockportfolio;
 
 import java.util.Scanner;

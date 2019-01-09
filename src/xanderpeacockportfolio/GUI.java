@@ -1,3 +1,8 @@
+/*
+ * Xander Peacock
+ * 01.09.19
+ * GUI Doodling
+ */
 package xanderpeacockportfolio;
 
 import java.awt.*;
